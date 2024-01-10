@@ -2,7 +2,7 @@ package puppy
 
 // go mod init github.com/YutaUtah/puppy
 func Bark() string {
-	return "woof!"
+	return "woof!!"
 }
 
 func Barks() string {
